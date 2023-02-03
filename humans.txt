@@ -2,7 +2,7 @@
 Owner/Operator: Matt Hayes
 Site: https://mysterycommand.com
 Twitter: @mysterycommand
-Location: Washington, DC
+Location: Chicago, IL
 
 /* SITE */
 Last update: 2019/07/19
